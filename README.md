@@ -1,5 +1,4 @@
 # Retaining Talents, Unleashing Possibilities - A study of Employee Retention in Salifort Motors
-## Capstone Project from Google Advanced Data Analytics Professional Certification Course
 
 ## Introduction:
 
